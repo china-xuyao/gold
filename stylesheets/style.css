@@ -7,3 +7,23 @@ body {
 a {
   color: #00B7FF;
 }
+
+.qq_img1 {
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  height: 45px;
+  width: 45px;
+  background: #fff url('../images/qq.png') no-repeat repeat ; 
+  background-position: -1px 0; 
+}
+
+.qq_img1:hover {
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  height: 45px;
+  width: 45px;
+  background: #fff url('../images/qq.png') no-repeat repeat ; 
+  background-position: -51px 0;
+}
